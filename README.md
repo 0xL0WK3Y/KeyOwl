@@ -7,4 +7,4 @@ When KeyOwl runs for the first time it creates a startup shortcut of itself and 
 Every time KeyOwl is run, it will encode the content of the log.txt file to Base64 and send it to you via e-mail. In order to read the contents you can use a simple decoder. KeyOwl encodes the contents of the log.txt file to prevent different problems that might arise from a few recorded characters.
 
 # Disclaimer!
-This is made for educational purposes only! I do not condone malicious use of this script! I am also not responsible for the actions of anyone using this script!
+This is made for educational purposes only! I do not condone malicious use of this script! I am also not responsible for the actions of anyone using this script.
